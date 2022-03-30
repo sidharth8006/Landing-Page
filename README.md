@@ -1,2 +1,2 @@
 # Landing-Page
-Landing page of a Gym
+Landing page of a Gym Website
